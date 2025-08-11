@@ -1,6 +1,6 @@
 # build-weak-4
 
-## 🎯 HealthLens – Understanding Patient Data & Health Trends 
+## 👩‍⚕️ HealthLens – Understanding Patient Data & Health Trends 
 
 <h2 align="center">Hi 👋, I'm suraj mate worked on Data cleaning </h1>
 <h2 align="center">Hi 👋, I'm Akash khushwaha worked on sql </h1>
