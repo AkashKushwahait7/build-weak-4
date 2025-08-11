@@ -3,8 +3,8 @@
 ## 👩‍⚕️ HealthLens – Understanding Patient Data & Health Trends 
 
 <h2 align="center">Hi 👋, I'm suraj mate worked on Data cleaning </h1>
-<h2 align="center">Hi 👋, I'm Akash khushwaha worked on sql </h1>
-<h2 align="center">Hi 👋, I'm honey mathur worked on EDA(Exploratory Data Analysis)</h1>
+<h2 align="center">Hi 👋, I'm Akash khushwaha worked on EDA(Exploratory Data Analysis) </h1>
+<h2 align="center">Hi 👋, I'm honey mathur worked</h1>
 <h3 align="center">A passionate data analyst from India</h3>
 
 - 📫 How to reach me **smate4986@gmail.com**
