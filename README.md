@@ -81,16 +81,6 @@ The project uses the **Heart Disease UCI Dataset** to perform:
 2. Download the dataset from Kaggle.  
 3. Run the **Jupyter notebook** to explore data cleaning, EDA, and insights.  
 4. Modify visualizations and analyses for further exploration.
-
----
-
-## 🏷️ Potential Project Titles
-1. ❤️ **HeartHealth Insights: Risk Factors and Trends in Heart Disease**  
-2. 🔍 **HealthLens: Understanding Heart Disease Through Data**  
-3. 📊 **CardioAnalytics: Patterns and Predictors of Heart Disease**  
-4. 💓 **HeartTrack: Patient Data Analysis for Cardiovascular Risk**  
-5. 💖 **PulseCheck: Exploring Heart Disease Risk Factors**
-
 ---
 
 <h2 align="center">Hi 👋, I'm suraj mate worked on Data cleaning </h1>
