@@ -89,7 +89,7 @@ HeartHealth-Insights/
 ---
 
 ## 👥 Team Members & Roles
-- 👨‍💻 **Suraj Mate** – Data Cleaning, Preprocessing  
+- 👨‍💻 **Suraj Mate** – Data Cleaning and Statistical Analysis
 - 👨‍💻 **Akash Khushwaha** – Exploratory Data Analysis (EDA)  
 - 👨‍💻 **Honey Mathur** – Insight Generation, Visualization  
 - 🌏 **Location:** India  
