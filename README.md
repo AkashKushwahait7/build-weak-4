@@ -1,6 +1,10 @@
 # ❤️ HeartHealth Insights: Risk Factors & Trends in Heart Disease
 
-![Heart](https://img.icons8.com/emoji/48/000000/heart-emoji.png)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-008080?style=for-the-badge&logo=gnuplot&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-FF6F00?style=for-the-badge&logo=apacheairflow&logoColor=white)
 
 ---
 
@@ -21,6 +25,16 @@ The project uses the **Heart Disease UCI Dataset** to perform:
 **Dataset Description:**  
 - Health metrics include **age, gender, chest pain type, cholesterol, fasting blood sugar, maximum heart rate**, and more.  
 - The **target variable** indicates the **presence or absence of heart disease**.
+
+---
+
+## 📂 Directory Structure
+HeartHealth-Insights/
+├─ data/             # Raw & processed datasets  
+├─ notebooks/        # Jupyter notebooks for EDA & analysis  
+├─ scripts/          # Python scripts for preprocessing & analysis  
+└─ README.md
+
 
 ---
 
@@ -56,12 +70,10 @@ The project uses the **Heart Disease UCI Dataset** to perform:
 
 ### 4️⃣ Optional Enhancements
 - 🔹 SQL queries for subgroup analysis (e.g., average cholesterol by age/gender)  
-- 🔹 Interactive dashboards using Python libraries (**Plotly, Dash, Streamlit**)
 
 ---
 
-## 💡 Key Insights
-*(Update after analysis)*  
+## 💡 Key Insights 
 - ❤️ Chest pain type strongly correlates with heart disease risk.  
 - 👨 Males show a higher prevalence of heart disease than females.  
 - 💓 Maximum heart rate decreases with age and varies between patients with and without heart disease.  
@@ -70,30 +82,35 @@ The project uses the **Heart Disease UCI Dataset** to perform:
 ---
 
 ## 💻 Tech Stack
-- **Python:** Pandas, NumPy, Seaborn, Matplotlib, Plotly  
-- **SQL:** Optional for subgroup analysis  
-- **Notebook Environment:** Jupyter Notebook / VS Code
+- **Programming Languages:** Python, SQL  
+- **Libraries / Tools:** Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook  
+- **Techniques:** EDA, Statistical Analysis, Data Cleaning, Visualization  
 
 ---
 
-## 🚀 How to Use
-1. Clone this repository.  
-2. Download the dataset from Kaggle.  
-3. Run the **Jupyter notebook** to explore data cleaning, EDA, and insights.  
-4. Modify visualizations and analyses for further exploration.
+## 👥 Team Members & Roles
+- 👨‍💻 **Suraj Mate** – Data Cleaning, Preprocessing  
+- 👨‍💻 **Akash Khushwaha** – Exploratory Data Analysis (EDA)  
+- 👨‍💻 **Honey Mathur** – Insight Generation, Visualization  
+- 🌏 **Location:** India  
+
 ---
 
-<h2 align="center">Hi 👋, I'm suraj mate worked on Data cleaning </h1>
-<h2 align="center">Hi 👋, I'm Akash khushwaha worked on EDA(Exploratory Data Analysis) </h1>
-<h2 align="center">Hi 👋, I'm Honey Mathur worked on Insight Generation</h1>
-<h3 align="center">A passionate data analyst from India</h3>
+## 📫 Connect With Us
+- ✉️ Email: **smate4986@gmail.com**  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-mate12/) **Suraj_Mate**
 
-- 📫 How to reach me **smate4986@gmail.com**
-- ⚡ Fun fact **I am funny**
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/suraj_mate_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suraj_mate_21" height="30" width="40" /></a>
-</p>
 
-### Project Overview
-You're part of a healthcare analytics team that works with patient diagnostics and lifestyle indicators. The goal is to analyze patient health records and extract insights into heart disease patterns, risk factors, and population-level trends. This is a real-world analytics challenge—your choices in analysis and presentation matter.
+---
+
+## 🙏 Thank You
+Thank you for visiting the repository!  
+We are passionate about **Data Analysis, Machine Learning, Deep Learning, and Healthcare Analytics**.  
+Feel free to explore, connect, and collaborate!
+
+---
+
+## ⚙️ Installation & Usage
+1. Clone the repository:  
+```bash
+git clone <repo-link>
