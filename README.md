@@ -100,7 +100,9 @@ HeartHealth-Insights/
 - ✉️ Email: **smate4986@gmail.com**  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-mate12/) **Suraj_Mate**
 
-
+## 📫 Connect With Us
+- ✉️ Email: **akash.it.kushwaha@gmail.com**  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-kushwaha-/) **Akash Kushwaha**
 ---
 
 ## 🙏 Thank You
