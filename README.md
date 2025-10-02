@@ -100,19 +100,22 @@ HeartHealth-Insights/
 - ✉️ Email: **smate4986@gmail.com**  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-mate12/) **Suraj_Mate**
 
-## 📫 Connect With Us
-- ✉️ Email: **akash.it.kushwaha@gmail.com**  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-kushwaha-/) **Akash Kushwaha**
----
 
-## 🙏 Thank You
-Thank you for visiting the repository!  
-We are passionate about **Data Analysis, Machine Learning, Deep Learning, and Healthcare Analytics**.  
-Feel free to explore, connect, and collaborate!
+<p align="center">
+  💡 I love building projects, exploring data, and learning new technologies!  
+</p>
 
----
+<p align="center">
+  🔗 Let's Connect:  
+  <a href="https://www.linkedin.com/in/suraj-mate12/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Surajmate21">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-## ⚙️ Installation & Usage
-1. Clone the repository:  
-```bash
-git clone <repo-link>
+<p align="center">
+  🚀 <b>Keep Learning. Keep Growing. Keep Exploring!</b> 🚀
+</p>
+
