@@ -99,16 +99,23 @@ HeartHealth-Insights/
 ## 📫 Connect With Us
 - ✉️ Email: **smate4986@gmail.com**  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-mate12/) **Suraj_Mate**
-
+- ✉️ Email: **honeyherambmathur@gmail.com**  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/honey-mathur-a8120a16a/) **Honey Mathur**
 
 <p align="center">
   💡 I love building projects, exploring data, and learning new technologies!  
 </p>
 
 <p align="center">
-  🔗 Let's Connect:  
+  🔗 Let's Connect: 
+  <a href="https://www.linkedin.com/in/honey-mathur-a8120a16a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/suraj-mate12/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/honeyherambmathur">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://github.com/Surajmate21">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
